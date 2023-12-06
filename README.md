@@ -1,6 +1,10 @@
 # jsp_servlet_mysql_curd-project
 JSP SERVLET MYSQL CURD AJAX JAVASCRIPT
 
+simple login curd application using js,jsp,mysql,servlet
+
+
+
 CREATE DATABASE 'users';
 USE users;
 
